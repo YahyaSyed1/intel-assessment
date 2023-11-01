@@ -370,7 +370,7 @@ th {
 }
 
 .checkbox label {
-  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .redActual {
